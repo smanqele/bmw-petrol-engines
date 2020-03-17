@@ -25,3 +25,7 @@ When logging to the H2 DB please ensure this URL string shows in the GUI:
 
 In the GUI the User Name is 'sa'.
 The password is 'password'
+
+Built on
+java version "1.8.0_161",
+Spring-Boot "2.2.5.RELEASE"
