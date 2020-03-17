@@ -21,7 +21,7 @@ After startup you have access to two URLs:
 You can use the H2 DB to check the uploaded data before using the Swagger URL 
 
 When logging to the H2 DB please ensure this URL string shows in the GUI:
-jdbc:h2:mem:testdb
+'jdbc:h2:mem:testdb'
 
 In the GUI the User Name is 'sa'.
 The password is 'password'
