@@ -5,7 +5,7 @@ The CRUD implementations have been done for just reading from the H2 database.
 Once the project has been cloned simply run under the root folder this command:
 mvn install dockerfile:build
 
-After the build run the project in one two modes:
+After the build, run the project in one of two modes:
 1) Run with visible console: docker run -p 4040:4040 -t bmw_repo/bmw-petrol-engines
 OR
 2) Run as a background process: docker run -d -p 4040:4040 -t bmw_repo/bmw-petrol-engines
