@@ -12,7 +12,7 @@ OR
 
 For the purposes of this excercise it is advisable to run like 1) for the benefits of the logs
 
-The during Startup the data from {project}/src/main/resources/data/bmw_petrol_engines.csv is uploaded to the in-memory H2 DB
+During Startup the data from {project}/src/main/resources/data/bmw_petrol_engines.csv is uploaded to the in-memory H2 DB
 
 After startup you have access to two URLs:
 1) The Swagger-UI for REST operations: http://localhost:4040/bmw/swagger-ui.html
